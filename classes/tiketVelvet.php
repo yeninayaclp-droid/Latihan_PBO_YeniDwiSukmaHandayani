@@ -30,11 +30,11 @@ class TiketVelvet extends Tiket
 
     public function hitungTotalHarga()
     {
-        return 0;
+        return ($this->jumlah_kursi * $this->hargaDasarTiket) * 1.5;
     }
 
     public function tampilkanInfoFasilitas()
     {
-        return "";
+        return "Paket: {$this->bantalSelimutPack}, Butler: {$this->layananButler}";
     }
 }
