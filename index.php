@@ -3,7 +3,7 @@
 require_once 'koneksi/database.php';
 
 require_once 'classes/Tiket.php';
-require_once 'classes/TiketRegular.php';
+require_once 'classes/TiketReguler.php';
 require_once 'classes/TiketIMAX.php';
 require_once 'classes/TiketVelvet.php';
 

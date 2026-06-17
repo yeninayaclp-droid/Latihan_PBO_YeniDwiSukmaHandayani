@@ -41,3 +41,6 @@
 2026-06-17T14:06:05.890620Z 0 [ERROR] [MY-010119] [Server] Aborting
 2026-06-17T14:06:05.898743Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld: Shutdown complete (mysqld 8.4.3)  MySQL Community Server - GPL.
 2026-06-17T14:06:05.904490Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2026-06-17T14:12:35.121173Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-06-17T14:12:35.483562Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-06-17T14:12:35.484300Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin\mysqld (mysqld 8.4.3) starting as process 18272
